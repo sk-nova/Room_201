@@ -1,5 +1,4 @@
-#include <iostream>
-using namespace std;
+#include "utils.h"
 
 int main()
 {
